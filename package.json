@@ -1,0 +1,19 @@
+{
+  "name": "gulp_watch",
+  "version": "1.0.0",
+  "description": "gulp file creation and automated watching for changes in project files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MeeRBee",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "sass": "^1.49.8"
+  }
+}
